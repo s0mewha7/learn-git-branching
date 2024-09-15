@@ -1,4 +1,4 @@
-# Learning Git Branching
+![Screenshot from 2024-09-16 00-49-03](https://github.com/user-attachments/assets/1ed1fcda-dad9-4883-9a85-003ae4a0d447)![Screenshot from 2024-09-16 00-48-48](https://github.com/user-attachments/assets/2238a6ab-aa45-4087-b896-1d8ff42fe5ee)# Learning Git Branching
 
 Please do not continue if you have not learned the content covered in these assignments. It is important to learn the material. However if, like me, you find yourself needing to complete arbitrary tasks for classes you are capable of testing out of - but its not offered. Please continue...
 
@@ -247,7 +247,7 @@ git merge foo
 git merge side
 ```
 
-![image](/home/somewhat/VScode/learn-git-branching/successful-solution/main-complete.png)
+![Screenshot from 2024-09-16 00-48-48](https://github.com/user-attachments/assets/f4c032f1-5d57-4af8-b478-14ace6852450)
 
+![Screenshot from 2024-09-16 00-49-03](https://github.com/user-attachments/assets/6a46aed0-de81-4654-b6ad-36521a5cca63)
 
-![image](/home/somewhat/VScode/learn-git-branching/successful-solution/remote-complete.png)
